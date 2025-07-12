@@ -74,7 +74,14 @@ ReWear aims to:
 
 ## 🤝 Contributing
 
-*[Add contribution guidelines here]*
+Name: Mohammedalfez Tintoiya
+Email: alfez.tintoiya25@gmail.com
+
+Name: Soham Gandhi
+Email: sohamgandhi001@gmail.com
+
+Name: Vaibhav Panday
+Email: vaibhavpanday1234@gmail.com
 
 ## 📞 Contact
 
